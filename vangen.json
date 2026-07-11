@@ -1,0 +1,20 @@
+{
+  "domain": "go.kcra.me",
+  "docsDomain": "pkg.go.dev",
+  "repositories": [
+    {
+      "prefix": "memos",
+      "type": "git",
+      "hidden": false,
+      "url": "https://github.com/zlataovce/memos",
+      "source": {
+        "home": "https://github.com/zlataovce/memos",
+        "dir": "https://github.com/zlataovce/memos/tree/main{/dir}",
+        "file": "https://github.com/zlataovce/memos/blob/main{/dir}/{file}#L{line}"
+      },
+      "website": {
+        "url": "https://github.com/zlataovce/memos"
+      }
+    }
+  ]
+}
